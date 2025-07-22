@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Soumya Mathur 😊</h1>
 <h3 align="center">A passionate Data Explorer from India</h3>
 
-<img src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif" width="400" alt="coding" align="right">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1280/1*uYkZXXw-QL-N_1gVndPH9A.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyamathur001&label=Profile%20views&color=0e75b6&style=flat" alt="soumyamathur001" /> </p>
 
