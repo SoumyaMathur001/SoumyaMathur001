@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyamathur001&label=Profile%20views&color=0e75b6&style=flat" alt="soumyamathur001" /> </p>
 
-- 📫 How to reach me **https://www.linkedin.com/in/soumya-mathur-a86ab0259/**
+- 📫 How to reach me **soumya.anm.mathur@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
